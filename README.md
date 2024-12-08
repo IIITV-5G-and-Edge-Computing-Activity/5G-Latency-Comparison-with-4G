@@ -14,12 +14,13 @@ This project aims to evaluate and compare the latency performance of 5G and 4G n
 
 **Project Structure**
 
-* **CSV:** Contains CSV files generated from Wireshark analysis.
-* **Images:** Contains graphs and visualizations generated from the data analysis.
-* **Wireshark:** Contains Wireshark capture files (.pcap) for 4G and 5G networks.
-* **5g Vs 4g Latency Use cases Graph.ipynb:** Jupyter Notebook containing the code for data analysis and visualization.
-* **Gr04EC431_report.pdf:** Final project report.
-* **README.md:** This file.
+* **[CSV:](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Latency-Comparison-with-4G/tree/main/CSV)** Contains CSV files generated from Wireshark analysis.
+* **[Images:](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Latency-Comparison-with-4G/tree/main/Images)** Contains graphs and visualizations generated from the data analysis.
+* **[Wireshark:](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Latency-Comparison-with-4G/tree/main/Wireshark)** Contains Wireshark capture files (.pcap) for 4G and 5G networks.
+* **[5g Vs 4g Latency Use cases Graph.ipynb:]()** Jupyter Notebook containing the code for data analysis and visualization.
+* **[Gr04EC431_report.pdf:](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Latency-Comparison-with-4G/blob/main/5g%20Vs%204g%20Latency%20Use%20cases%20Graph.ipynb)** Final project report.
+*  **[Latex file:](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Latency-Comparison-with-4G/blob/main/Gr04EC431.tex)** Latex file of the Project report
+* **[README.md:](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Latency-Comparison-with-4G/blob/main/README.md)** This file.
 
 **Project Details**
 * [Link to Project Video](https://drive.google.com/drive/folders/161ArB0oiu2vUooYZYLCOMglWWCVfffRn) 
@@ -53,15 +54,16 @@ The results demonstrate that 5G significantly outperforms 4G in most latency-rel
 **Conclusion**
 
 5G's superior latency performance makes it suitable for latency-sensitive applications. However, further optimization is needed to address variability in certain scenarios. This study provides valuable insights into 5G's potential to enhance user experiences and support emerging technologies.
+
 ---
 
 **Contributions**
-
 * Megha Prajapati: 5G network analysis
 * Vasireddy Satvika: 4G network analysis
 * Sanya: Analyzed outputs and created graphs
 
 ---
+
 **Acknowledgements**
 
 We would like to thank Dr. Bhupendra Kumar for his guidance and support throughout this project.
