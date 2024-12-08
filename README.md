@@ -54,6 +54,10 @@ The study focuses on key latency metrics under varied conditions and use cases:
 - Summarize findings and highlight key insights.  
 
 ---
+### Links 
+- Report - [OverLeaf](https://www.overleaf.com/project/67541a309776c375e0693ce9)
+- Project Video - [Link](https://drive.google.com/drive/folders/161ArB0oiu2vUooYZYLCOMglWWCVfffRn)
+---
 ## This project is a part of 5g course EC431 
 Members :
  - Megha Prajapati(202151091) 
